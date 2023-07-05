@@ -1,5 +1,5 @@
 {
     "url": "https://weatherapi-com.p.rapidapi.com/forecast.json?q=",
-    "apiKey": "4b3d53f49fmsh8e1bd1ae6d4994fp191178jsn5400bf67e210",
-    "apiHost": "weatherapi-com.p.rapidapi.com"
+    "apiKey": "",
+    "apiHost": ""
 }
