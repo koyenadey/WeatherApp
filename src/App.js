@@ -20,7 +20,7 @@ function App() {
   }, []);
 
   const { isLoaded } = useJsApiLoader({
-    googleMapsApiKey: "AIzaSyBrkLpntNSGNhV3wO_j6XCYYPu9gJrH8lY",
+    googleMapsApiKey: "",
   });
 
   if (!isLoaded) return <p>Loading...</p>;
